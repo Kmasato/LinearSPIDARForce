@@ -1,0 +1,6 @@
+{
+    "terminal.integrated.env.osx": {
+        "PATH": "/Users/sanadahanamichi/.platformio/penv/bin:/Users/sanadahanamichi/.platformio/penv:/Users/sanadahanamichi/anaconda3/bin:/Users/sanadahanamichi/anaconda3/condabin:/Library/Frameworks/Python.framework/Versions/3.7/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin",
+        "PLATFORMIO_CALLER": "vscode"
+    }
+}
